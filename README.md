@@ -1,3 +1,3 @@
 # First Demo to learn git
 
-type description of the prjct
+type description of the project!
